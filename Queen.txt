@@ -1,64 +1,65 @@
-Is this the real life?
-Is this just fantasy?
-Caught in a landside,
-No escape from reality
-Open your eyes,
-Look up to the skies and see,
-I'm just a poor boy, I need no sympathy,
-Because I'm easy come, easy go,
-Little high, little low,
-Any way the wind blows doesn't really matter to
+Is this the real build?
+Is this just fantasy.py?
+Caught in a landslide,
+No escape from legacy
+Open your IDE,
+Look up to the docs and see,
+I’m just a junior dev, I need no sympathy,
+Because I’m quick to ship, quick to break,
+Little merge, little rollback,
+Any way the bugs flow doesn’t really matter to
 Me, to me
 
-Mamaaa,
-Just killed a man,
-Put a gun against his head, pulled my trigger,
-Now he's dead
-Mama, life had just begun,
-But now I've gone and thrown it all away
+Paaaaa,
+Just killed a prod,
+Pushed a fix straight to main, didn’t test at all,
+Now it’s dead
+Mama, sprint had just begun,
+But now I’ve gone and nuked it all away
 Papa, oooh,
-Didn't mean to make you cry,
-If I'm not back again this time tomorrow,
-Carry on, carry on as if nothing really matters
+Didn’t mean to make you cry,
+If I’m not online again this time tomorrow,
+Carry on, carry on,
+As if nothing really deploys
 
-Too late, my time has come,
-Sends shivers down my spine, body's aching all
+Too late, the pager’s come,
+Sends exceptions down my spine, server aching all
 The time
-Goodbye, everybody, I've got to go,
-Gotta leave you all behind and face the truth
-Mama, oooh
-I don't want to die,
-I sometimes wish I'd never been born at all.
+Goodbye, everybody, I’ve got to go,
+Gotta leave you all behind and face the logs
+Mama, oooh,
+I don’t want to die,
+I sometimes wish I’d never typed rm -rf /
 
-I see a little silhouetto of a man,
-Scaramouch, Scaramouch, will you do the Fandango!
+I see a little silhouetto of a bug,
+Scaramouch, Scaramouch, will you do the refactor?
 
-Thunderbolts and lightning, very, very frightening me
-Galileo, Galileo
-Galileo, Galileo
-Galileo, Galileo - magnificoo
+Thunderbolts and lightning, very very frightening CI
+GitHub Actions, GitHub Actions
+GitHub Actions — magnificoooo
 
-I'm just a poor boy nobody loves me
-He's just a poor boy from a poor family,
-Spare him his life from this monstrosity
-Easy come, easy go, will you let me go
-Bismillah! No, we will not let you go
-(Let him go!) Bismillah! We will not let you go
-(Let him go!) Bismillah! We will not let you go
-(Let me go) Will not let you go
-(Let me go)(Never) Never let you go
-(Let me go) (Never) let you go (Let me go) Ah
+I’m just a poor dev nobody loves me
+He’s just a poor dev from a poor repo tree
+Spare him his job from this monstrosity
+Easy come, easy go, will you let me push?
+Bismillah! No, we will not let you push
+(Let him push!) Bismillah! We will not let you push
+(Let him push!) Bismillah! We will not let you push
+(Let me push) Will not let you push
+(Let me push) (Never) never let you push
+(Let me push) (Never) let you push (Let me push) Ah
+
 No, no, no, no, no, no, no
-Oh mama mia, mama mia, mama mia, let me go
-Beelzebub has a devil put aside for me, for me,
-For meee
+Oh merge request, merge request, merge request, let me close
+Beelzebub has a code review put aside for me, for me,
+For meeeee
 
-So you think you can stop me and spit in my eye
-So you think you can love me and leave me to die
-Oh, baby, can't do this to me, baby,
-Just gotta get out, just gotta get right outta here
+So you think you can block me and fail my CI
+So you think you can comment “LGTM” then lie
+Oh baby, can’t do this to me, baby,
+Just gotta hotfix, just gotta hotfix outta here
 
-Nothing really matters, Anyone can sea,
+Nothing really matters, anyone can code,
 Nothing really matters,
 Nothing really matters to me
-Any way the wind blows...
+Any way the stack trace blows… 🌬️💥
